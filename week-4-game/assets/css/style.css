@@ -1,0 +1,12 @@
+.background {
+    background-image: url("../images/hotmic.jpg"); 
+    height: 100vh; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: -1;
+    opacity: .5;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
